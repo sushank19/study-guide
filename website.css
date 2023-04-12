@@ -1,0 +1,118 @@
+.container-fluid {
+  background-image: url('bootstrap1img.jpg');
+  height: 100vh;
+  width: 100%;
+  margin: 0%;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.background {
+  background-color: white;
+  text-align: center;
+}
+
+.studyplatforms {
+  background-image: url(section1img.png);
+  height:100vh;
+  width: 100vw;
+  background-size: cover;
+}
+
+.courseraplatform {
+  background-color: white;
+  border-radius: 10px;
+  margin: 20px;
+  padding: 20px;
+}
+
+.courseramatter {
+  width:400px;
+}
+
+.courseraimg {
+  height:150px;
+  width:150px;
+  text-align: center;
+}
+
+.favourite-places-bg-container {
+  background-image: url("bgimg.jpg");
+  height: 100vh;
+  background-size: cover;
+}
+
+.favourite-places-heading {
+  color:white;
+  padding: 15px;
+  font-size: 27px;
+  font-weight: bold;
+  margin-bottom: 0px;
+}
+
+.favourite-paces-card-container {
+  background-color: white;
+  border-radius: 10px;
+  margin: 6px;
+  padding: 15px;
+  height:190px;
+}
+
+.heading {
+  width:70%;
+}
+
+.favourite-paces-card-heading {
+  font-size: 12px;
+  font-weight: bold;
+}
+
+.place-img {
+  height:140px;
+  width:150px;
+  border-radius: 10px;
+  margin-left: 20%;
+}
+
+.btn {
+  margin-left: 40%;
+  margin-right: 40%;
+}
+
+.detailed-view-bg-container {
+  background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/seabg.png");
+  height: 100vh;
+  background-size: cover;
+}
+.detailed-view-heading {
+  color: white;
+  font-family: "Roboto";
+  font-size: 28px;
+  font-weight: bold;
+  padding: 24px;
+}
+.detailed-view-card-container {
+  background-color: white;
+  border-bottom-right-radius: 8px;
+  border-bottom-left-radius: 8px;
+  margin: 10px;
+  /* height:500px; */
+}
+.d-block {
+  height:400px;
+  /* width:400px; */
+}
+.detailed-view-card-heading {
+  color: #0f0e46;
+  font-family: "Roboto";
+  font-size: 23px;
+  font-weight: bold;
+}
+.detailed-view-card-description {
+  color: #6c6b70;
+  font-family: "Roboto";
+  font-size: 14px;
+}
+.detailed-view-card-text-container {
+  padding: 16px;
+}
